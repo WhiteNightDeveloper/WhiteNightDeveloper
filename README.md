@@ -1,6 +1,9 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
 <p>
   <p>
+    <img align="center" width="300" src="https://i.morioh.com/2020/02/07/61d2e76f21d1.jpg" />
+</p>
+  <p>
     <img align="right" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e3irsdddmug0u3w61c38ghfr2qi107fc59ozy58t&rid=200.webp&ct=g" />
   </p>
   <p>
@@ -27,14 +30,13 @@
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 <br><br>
 ## <b>😇 My Github Stats</b>:
-<p align="left"><img align="right" width="100" src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="white" />
 </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="white" /></p>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=perfectdev000&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=perfectdev000&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
-<a href="https://github.com/perfectdev000/perfectdev000">
+<a href="https://github.com/WhiteNightDeveloper/WhiteNightDeveloper">
   <img alt="perfectdev000's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=perfectdev000&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
   
