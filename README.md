@@ -1,7 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
 <p>
   <p>
-     <img src="https://i.morioh.com/2020/02/07/61d2e76f21d1.jpg" style="float: right"/>
    <img src="https://iskylar.com/wp-content/uploads/2021/05/js-frameworks.jpg" style="float: right"/>
 </p>
   <p>
