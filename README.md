@@ -11,7 +11,7 @@
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e3irsdddmug0u3w61c38ghfr2qi107fc59ozy58t&rid=200.webp&ct=g"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
