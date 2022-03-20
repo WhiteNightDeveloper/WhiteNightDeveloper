@@ -6,7 +6,7 @@
   <p>
   Hi there<br>
   I'm a Skilled Professional Developer.<br><br>
-  I have been working in web and mobile development for 10+ years.<br><br>
+  I have been working in web and mobile development for 5+ years.<br><br>
   My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
@@ -14,6 +14,8 @@
   <a href="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <b> 🎬 I am ready to start your project right now.</b>
+<br />
+<br />
 ### Languages and Tools:
 <p>
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
